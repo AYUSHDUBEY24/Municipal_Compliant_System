@@ -89,7 +89,7 @@ The system can be used by:
 
 ### Admin Module ##
 
-- Secure Admin Login
+- Secure Admin Login.
 - Dashboard
 - View All Complaints
 - Complaint Filtering and Searching
