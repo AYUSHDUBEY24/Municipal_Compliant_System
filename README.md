@@ -4,7 +4,7 @@
 
 The **Municipal Complaint Management System** is a software application designed to help citizens register and track complaints related to municipal services.
 
-The system provides a centralized platform where citizens can report problems such as garbage collection, street lights, roads, water supply, drainage, sanitation, and other civic issues.
+The system provides a centralized platform where citizens can report problems such as garbage collection, street lights, roads, water supply, drainage, sanitation, and other civic issues......
 
 Municipal authorities can view, manage, assign, and resolve complaints efficiently through an administrative dashboard.
 
