@@ -8,7 +8,7 @@ An automated, transparent web portal enabling citizens to lodge civic complaints
 * **Architecture:** MVC / Microservices-ready Web Architecture
 
 ## 👥 Team & Roles
-1. **Kavin Gupta:** Business Analyst / Requirements Engineer...
+1. **Ayush Dubey** Frontend Dev...
 
 ## 🚀 Core Features
 * Citizen registration and secure OTP/JWT authentication
