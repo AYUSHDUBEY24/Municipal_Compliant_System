@@ -8,12 +8,7 @@ An automated, transparent web portal enabling citizens to lodge civic complaints
 * **Architecture:** MVC / Microservices-ready Web Architecture
 
 ## 👥 Team & Roles
-1. **Member 1:** Project Manager & Lead Architect
-2. **Member 2:** Business Analyst / Requirements Engineer
-3. **Member 3:** Frontend UI/UX Engineer
-4. **Member 4:** Backend Systems Engineer
-5. **Member 5:** Database Administrator
-6. **Member 6:** Quality Assurance & Testing Engineer
+1. **Kavin Gupta:** Business Analyst / Requirements Engineer
 
 ## 🚀 Core Features
 * Citizen registration and secure OTP/JWT authentication
