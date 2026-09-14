@@ -87,9 +87,9 @@ The system can be used by:
 - Complaint History
 - Feedback and Rating
 
-### Admin Module
+### Admin Module ##
 
-- Secure Admin Login
+- Secure Admin Login.
 - Dashboard
 - View All Complaints
 - Complaint Filtering and Searching
